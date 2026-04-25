@@ -1,0 +1,201 @@
+document_id,document_title
+KB-001,Reset VPN Access
+KB-002,Install Office 365
+KB-003,Unlock Active Directory Account
+KB-004,Configure Email Signature in Outlook
+KB-005,Map a Network Drive
+KB-006,Enrol Device in Intune MDM
+KB-007,Reset MFA Authenticator App
+KB-008,Printer Not Found on Network
+KB-009,Request Software Installation
+KB-010,Recover Deleted Email in Outlook
+KB-011,Set Up Out of Office Reply
+KB-012,Fix Slow Laptop Performance
+KB-013,Connect to Guest WiFi Network
+KB-014,Transfer Files to New Laptop
+KB-015,Access SharePoint Document Library
+KB-016,Reset Windows Hello PIN
+KB-017,Enable BitLocker Encryption
+KB-018,Clear Browser Cache and Cookies
+KB-019,Set Default Browser via Group Policy
+KB-020,Fix Broken Microsoft Teams Login
+KB-021,Schedule a Teams Meeting
+KB-022,Share Screen in Teams Call
+KB-023,Create a Teams Channel
+KB-024,Add External Guest to Teams
+KB-025,Record a Teams Meeting
+KB-026,Download Teams Meeting Transcript
+KB-027,Fix Teams Audio Not Working
+KB-028,Fix Teams Camera Not Detected
+KB-029,Set Teams Status to Do Not Disturb
+KB-030,Install Teams on Mobile Device
+KB-031,Create a SharePoint Site
+KB-032,Set SharePoint Site Permissions
+KB-033,Restore File from SharePoint Version History
+KB-034,Sync SharePoint Library with OneDrive
+KB-035,Fix OneDrive Sync Errors
+KB-036,Share a OneDrive File Externally
+KB-037,Set OneDrive Storage Quota
+KB-038,Recover Deleted File from OneDrive Recycle Bin
+KB-039,Move Files from OneDrive to SharePoint
+KB-040,Disable OneDrive on Unmanaged Device
+KB-041,Create a Distribution List in Exchange
+KB-042,Add Shared Mailbox in Outlook
+KB-043,Grant Mailbox Delegate Access
+KB-044,Export Emails to PST File
+KB-045,Import PST File into Outlook
+KB-046,Fix Outlook Not Syncing with Exchange
+KB-047,Configure Outlook Focused Inbox
+KB-048,Disable Outlook Read Receipts
+KB-049,Create Outlook Email Template
+KB-050,Set Up Outlook on Mobile Device
+KB-051,Request a New User Account
+KB-052,Offboard a Departing Employee
+KB-053,Change User Principal Name in Azure AD
+KB-054,Add User to Security Group
+KB-055,Remove User from Distribution List
+KB-056,Assign Microsoft 365 License to User
+KB-057,Revoke Microsoft 365 License
+KB-058,Reset Azure AD User Password
+KB-059,Enable Self-Service Password Reset
+KB-060,Configure Password Expiry Policy
+KB-061,Set Up Conditional Access Policy
+KB-062,Block Legacy Authentication Protocols
+KB-063,Enable Azure AD Privileged Identity Management
+KB-064,Review Azure AD Sign-In Logs
+KB-065,Investigate Suspicious Login Alert
+KB-066,Enable Microsoft Defender for Endpoint
+KB-067,Run Malware Scan on Endpoint
+KB-068,Isolate Compromised Device in Defender
+KB-069,Review Defender Security Alerts
+KB-070,Submit False Positive to Defender
+KB-071,Whitelist Application in Defender
+KB-072,Configure Defender Firewall Rules
+KB-073,Enable Attack Surface Reduction Rules
+KB-074,Deploy Defender via Intune Policy
+KB-075,Onboard Server to Defender for Servers
+KB-076,Set Up a New Windows 11 Device
+KB-077,Perform Windows 11 Clean Install
+KB-078,Upgrade Device from Windows 10 to 11
+KB-079,Fix Windows Update Stuck at 0 Percent
+KB-080,Defer Windows Feature Update via Policy
+KB-081,Roll Back a Failed Windows Update
+KB-082,Enable Windows Sandbox
+KB-083,Configure Windows Power Settings via GPO
+KB-084,Join Device to Azure AD
+KB-085,Disjoin Device from Domain
+KB-086,Deploy Application via Intune
+KB-087,Create Intune Compliance Policy
+KB-088,Configure Intune Device Restrictions
+KB-089,Wipe Enrolled Device Remotely
+KB-090,Retire Device from Intune
+KB-091,Fix Intune Enrolment Error 0x80180026
+KB-092,Assign App Configuration Policy in Intune
+KB-093,Create Intune Device Group
+KB-094,Review Intune Device Compliance Report
+KB-095,Configure Autopilot Deployment Profile
+KB-096,Set Up a New iPhone for Corporate Use
+KB-097,Enrol Android Device in Intune
+KB-098,Configure iOS MAM Policy
+KB-099,Remote Wipe Lost Mobile Device
+KB-100,Troubleshoot Mobile Email Not Syncing
+KB-101,Set Up Multi-Function Printer
+KB-102,Install Printer Driver Manually
+KB-103,Fix Print Spooler Service Crash
+KB-104,Configure Secure Print Release
+KB-105,Scan Document to Email via MFP
+KB-106,Fix Paper Jam on Network Printer
+KB-107,Order Printer Consumables
+KB-108,Set Default Printer via Group Policy
+KB-109,Share Local Printer on Network
+KB-110,Troubleshoot Colour Printing Not Working
+KB-111,Request Hardware Replacement
+KB-112,Report a Lost or Stolen Laptop
+KB-113,Submit Insurance Claim for Damaged Device
+KB-114,Order a Replacement Keyboard or Mouse
+KB-115,Request Additional Monitor
+KB-116,Configure Dual Monitor Setup
+KB-117,Fix Monitor Not Detected by Laptop
+KB-118,Adjust Display Scaling in Windows
+KB-119,Troubleshoot USB Hub Not Recognised
+KB-120,Fix Docking Station Not Charging Laptop
+KB-121,Create a New Azure Resource Group
+KB-122,Deploy Virtual Machine in Azure
+KB-123,Resize Azure Virtual Machine
+KB-124,Connect to Azure VM via RDP
+KB-125,Set Up Azure Bastion for Secure VM Access
+KB-126,Configure Azure NSG Rules
+KB-127,Set Up Azure VPN Gateway
+KB-128,Create Azure Storage Account
+KB-129,Upload Files to Azure Blob Storage
+KB-130,Set Azure Blob Lifecycle Policy
+KB-131,Create Azure SQL Database
+KB-132,Restore Azure SQL Database from Backup
+KB-133,Configure Azure SQL Firewall Rules
+KB-134,Monitor Azure Resources with Azure Monitor
+KB-135,Set Up Azure Cost Budget Alert
+KB-136,Review Azure Advisor Recommendations
+KB-137,Enable Azure Defender for SQL
+KB-138,Configure Azure Key Vault
+KB-139,Rotate Secrets in Azure Key Vault
+KB-140,Set Up Azure App Service
+KB-141,Deploy Docker Container to Azure Container Instances
+KB-142,Create Azure Kubernetes Service Cluster
+KB-143,Scale AKS Node Pool
+KB-144,Configure Azure Front Door
+KB-145,Set Up Azure CDN Profile
+KB-146,Create Logic App Workflow
+KB-147,Debug Failed Logic App Run
+KB-148,Set Up Azure Function App
+KB-149,Monitor Azure Function Execution Logs
+KB-150,Configure Azure API Management Gateway
+KB-151,Set Up a Zoom Account
+KB-152,Schedule a Zoom Webinar
+KB-153,Fix Zoom Audio Echo During Call
+KB-154,Enable Zoom Waiting Room
+KB-155,Transfer Zoom Host Controls
+KB-156,Configure Zoom SSO with Azure AD
+KB-157,Download Zoom Recording from Cloud
+KB-158,Set Up Zoom Phone
+KB-159,Configure Zoom Breakout Rooms
+KB-160,Fix Zoom Not Launching on Windows
+KB-161,Create a Jira Project
+KB-162,Configure Jira Workflow
+KB-163,Add User to Jira Project
+KB-164,Create Jira Issue Template
+KB-165,Link Jira Issues to Confluence Page
+KB-166,Set Up Jira Automation Rule
+KB-167,Export Jira Issues to CSV
+KB-168,Configure Jira Service Management Queue
+KB-169,Set Up Jira SLA Policy
+KB-170,Integrate Jira with Slack Notifications
+KB-171,Create a Confluence Space
+KB-172,Restrict Confluence Page Permissions
+KB-173,Export Confluence Page to PDF
+KB-174,Embed Jira Issues in Confluence
+KB-175,Archive a Confluence Space
+KB-176,Set Up Slack Workspace
+KB-177,Connect Slack to Microsoft 365
+KB-178,Configure Slack Channel Notifications
+KB-179,Set Up Slack Huddle
+KB-180,Export Slack Message History
+KB-181,Set Up GitHub Organisation
+KB-182,Configure GitHub Branch Protection Rules
+KB-183,Add External Collaborator to GitHub Repo
+KB-184,Enable GitHub Actions Workflow
+KB-185,Configure GitHub Dependabot Alerts
+KB-186,Set Up GitHub Secrets for CI CD
+KB-187,Migrate Repository from Bitbucket to GitHub
+KB-188,Configure Git Credential Manager on Windows
+KB-189,Fix Git Push Rejected Due to Large File
+KB-190,Set Up SSH Key for GitHub Authentication
+KB-191,Configure DHCP Reservation for Device
+KB-192,Troubleshoot DNS Resolution Failure
+KB-193,Reset Network Adapter on Windows
+KB-194,Configure Static IP Address
+KB-195,Flush DNS Cache on Windows and Mac
+KB-196,Diagnose Network Packet Loss
+KB-197,Set Up Network VLAN for New Department
+KB-198,Configure Proxy Settings for Corporate Network
+KB-199,Troubleshoot Firewall Blocking Application
+KB-200,Request Firewall Rule Change via Change Management
